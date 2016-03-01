@@ -1,0 +1,33 @@
+/* Empty. Add your own CSS if you like */
+.bar.item-input-inset .item-input-wrapper {
+    margin-top: -1px;
+    width: 90%;
+    background: none;
+    border: none;
+    display: flex;
+    height: 57px;
+}
+
+
+
+.bar.bar-stable.bar-footer {
+    background-image: linear-gradient(180deg, #b2b2b2, #b2b2b2 50%, transparent 50%);
+    padding: 3px;
+    height: 66px;
+}
+
+.mozy-icons {
+    width: 30px;
+    text-align: center;
+    height: 33px;
+    line-height: 33px;
+}
+
+.mozy-icons i {
+    font-size: 20px;
+}
+
+.emoji-menu {
+    margin-left: -9px;
+    margin-top: -265px;
+}
